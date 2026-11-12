@@ -1,2 +1,0 @@
-# Bot-web
-Zor
